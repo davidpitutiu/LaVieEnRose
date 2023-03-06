@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "422137411107",
+    "project_id": "lavieenrose-ac65d",
+    "storage_bucket": "lavieenrose-ac65d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422137411107:android:8b391a7d6d78be8b7e6396",
+        "android_client_info": {
+          "package_name": "com.coffeeshop.lavieenrose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422137411107-uc85bfsl4k1ku1v0i3c5j0abcqcfoo88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coffeeshop.lavieenrose",
+            "certificate_hash": "a6db9a71b05974499996e6a2b6df4074844a5571"
+          }
+        },
+        {
+          "client_id": "422137411107-ujvjhf6hkum0b1jf496g3b2sspure0eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwRMuOXh5CMwXUZNno4uafNoeo3GNq7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422137411107-ujvjhf6hkum0b1jf496g3b2sspure0eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422137411107:android:8e20327cb05a818a7e6396",
+        "android_client_info": {
+          "package_name": "com.example.lavieenrose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422137411107-ujvjhf6hkum0b1jf496g3b2sspure0eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwRMuOXh5CMwXUZNno4uafNoeo3GNq7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422137411107-ujvjhf6hkum0b1jf496g3b2sspure0eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

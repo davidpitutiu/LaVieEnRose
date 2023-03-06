@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LaVieEnRose</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="create_account">Don\'t have an account? </string>
+    <string name="create_here"> <u>Create one here!</u> </string>
+    <string name="login_here"><u>Login here!</u></string>
+    <string name="forgot_password"><u> Forgot password? </u></string>
+    <string name="forgot_password_email">Fill the field below, if you have an account with us you will recieve an email!</string>
+    <string name="forgot_password_not_link">Forgot password?</string>
+
+</resources>
